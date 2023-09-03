@@ -1,4 +1,4 @@
-package p0901;
+ package p0901;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class JA0901_07 {
        
 		Scanner scan = new Scanner(System.in);
 		
-		System.out.println("문자1개를 입력하세요");
+		System.out.println("문자를 입력하세요");
 		String str =scan.next();
 		char ch=str.charAt(0);
 		

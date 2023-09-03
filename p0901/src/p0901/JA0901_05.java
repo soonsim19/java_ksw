@@ -25,7 +25,7 @@ public class JA0901_05 {
 	       
 	       System.out.println("a2 : "+a2);
 	      //소수점 첫째자리에서 반올림, 올림,내림 결정 
-	    //Math.round()-반올림, Math.ceil()-올림, Math.floor()-버림
+	      //Math.round()-반올림, Math.ceil()-올림, Math.floor()-버림
 	       double n = 12.598;
 	       double n2= 2.321;
 	       System.out.println(Math.round(n));//소수점 첫째자리 반올림

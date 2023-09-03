@@ -8,9 +8,9 @@ public class JA0901_08 {
 public static void main(String[] args) {
 	
 	
-	Scanner scan = new Scanner(System.in);
+	Scanner sca = new Scanner(System.in);
 	System.out.println("점수를 입력하세요");
-	int score = scan.nextInt();
+	int score = sca.nextInt();
 	String grade = (score>=90)? "A":(score>=80)?"B": (score>=70)?"C":(score>=60)?"D":"병신";
 	System.out.println("당신의 학점 : "+ grade);
 		

@@ -25,6 +25,8 @@ public class Ja0901_04 {
         System.out.println(ch1);
 	    System.out.println(ch2);
 	    System.out.println("두수더하기값 : "+result); 
+	    
+	    
 	}
 
 }

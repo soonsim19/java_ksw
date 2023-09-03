@@ -13,11 +13,11 @@ public class JA0901_02 {
 		System.out.println("이름을 입력하세요");
 		//String name = scan.next();
 		String name = scan.nextLine();//엔터키 입력까지 받음
-		System.out.println("이름 : "+ name);
+		System.out.println("이름 : " + name);
 		
 		System.out.println("국어점수를 입력하세요");
 		String k = scan.nextLine();
-		int kor=Integer.parseInt(k); //STring을 int타입으로 변경
+		int kor=Integer.parseInt(k); //String을 int타입으로 변경
 		System.out.println("영어점수를 입력하세요");
 		String e = scan.nextLine();
 		int eng = Integer.parseInt(e);

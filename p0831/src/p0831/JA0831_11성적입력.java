@@ -30,7 +30,8 @@ public class JA0831_11성적입력 {
 		
 		System.out.printf("이름 : %s\n",name);
 		System.out.printf("합계 : %d\n", total);
-		
+	    System.out.printf("평균 : %.2f\n", avg);
+	
 		
 
 				

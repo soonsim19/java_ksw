@@ -18,7 +18,7 @@ public class JA0831_10 {
            System.out.println("패스워드"+pw);
            
            
-           System.out.println("국어점수를 입력하세용")
+           System.out.println("국어점수를 입력하세용");
            int kor=scan.nextInt();
            System.out.println("국어점수"+kor);
 	}
